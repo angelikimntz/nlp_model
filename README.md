@@ -1,6 +1,6 @@
-# nlp_model
+# Natural Language Proccessing Model
 
 ![Tweepy logo](/assets/nlplogo.jpg)
 
 
-Natural Language Proccessing Model
+Natural Language Proccessing Model using np, sklearn & pd.
